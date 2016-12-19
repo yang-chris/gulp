@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a first gulp file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang-chris/gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "file"
+  ],
+  "author": "yxw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yang-chris/gulp/issues"
+  },
+  "homepage": "https://github.com/yang-chris/gulp#readme"
+}
